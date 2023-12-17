@@ -1,0 +1,72 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(image2.jpeg);
+    background-size: 280;
+    background-position: -400px 0px;
+
+}
+div.main{
+    width: 400px;
+    margin: 100px auto 0px auto;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+}
+div.login{
+background-color: rgba(0,0,0,0.5);
+font-size: 18px;
+border-radius: 4px;
+border : 1px solid rgba(255,255,255,0.3);
+}
+form#login{
+    margin: 40px;
+}
+label{
+    font-family: sans-serif;
+    font-size: 18px;
+}
+input#name{
+    width: 280px;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    padding :10px;
+    outline: 0;
+    background-color: #fff;
+}
+input#n1{
+    width: 280px;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    padding :10px;
+    outline: 0;
+    background-color: #fff;
+}
+input#n2{
+    width: 280px;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    padding :10px;
+    outline: 0;
+    background-color: #fff;
+}
+input#n3{
+    width: 280px;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    padding :10px;
+    outline: 0;
+    background-color: #fff;
+}
+input#submit{
+    width: 300px;
+    padding: 7px;
+    font-size: 20px;
+    border-radius: 3px;
+    background-color: lawngreen;
+}  
